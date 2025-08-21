@@ -6,7 +6,7 @@
 
 🏢 3 years of experience coding, processing data, and building infrastructure<br/>
 
-🧑🏿‍🔧 Proficient in Python, Spark, Databricks, Snowflake, Terraform, Bicep, and Java<br/>
+🧑🏿‍🔧 Proficient in Python, Spark, Databricks, Snowflake, Terraform, Bicep, SQL, MongoDB and Java<br/>
 
 ☁️ Working with and growing on [AWS](https://aws.amazon.com) and [Azure](https://azure.microsoft.com/en-gb/free/students/)<br/>
 
@@ -14,7 +14,6 @@
 
 🖇️ Let’s connect : [Mouhamed Lamine DIEDHIOU](https://www.linkedin.com/in/lamine-diedhiou-413b04217/)<br/>
 
-[![Lamine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lamine29&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![Lamine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamine29&show_icons=true&theme=dark)
 
 
