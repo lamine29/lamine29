@@ -6,7 +6,7 @@
 
 🏢 3 years of experience coding, processing data, and building infrastructure<br/>
 
-🧑🏿‍🔧 Proficient in Python, Spark, Databricks, Snowflake, Terraform, Bicep, SQL, MongoDB and Java<br/>
+🧑🏿‍🔧 Proficient in Python, Spark, Databricks, Snowflake, Terraform, Bicep, SQL, Github Actions and Java<br/>
 
 ☁️ Working with and growing on [AWS](https://aws.amazon.com) and [Azure](https://azure.microsoft.com/en-gb/free/students/)<br/>
 
